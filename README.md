@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Jorge+Diniz;I'm+34+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Universidade+Cruzeiro+do+Sul;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Jorge+Diniz;I'm+35+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Universidade+Cruzeiro+do+Sul;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/Nandull">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Nandull&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
